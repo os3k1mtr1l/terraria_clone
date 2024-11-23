@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=9C62K3qk03E&list=WL&index=50
+*Dont over engineer with abstractions*
+Keep things simplier
+Add sprites to blocks
+
+// Display square, give it control DONE//
+// Make camera follow the player  DONE//
+
+after prototype:
+	physics and collisions
+	Enemy behaviour (path finding and spawn)
+	World generation (parlen noise)
+	UI
+
+//Only render blocks that visible to the camera
+
